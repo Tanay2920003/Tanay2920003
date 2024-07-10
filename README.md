@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat" alt="tanay2920003" /> </p>
-
+<p align="right"> <img src="/code.gif" alt="" /> </p>
 <p align="right">![alt text](code.gif)</p>
 
 

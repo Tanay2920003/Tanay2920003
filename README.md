@@ -1,35 +1,109 @@
+<style>
+    .skills-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .skills-container a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px; /* Adjust the size of the icons */
+    height: 80px; /* Adjust the size of the icons */
+    background-color: #3498db; /* Change the background color */
+    border-radius: 10px; /* Rounded corners */
+  }
+
+  .skills-container img {
+    width: 50%; /* Adjust the size of the icon inside the button */
+    height: 50%; /* Adjust the size of the icon inside the button */
+    margin: auto; /* Center the icon inside the button */
+  }
+  .social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 160px; /* Adjust the width as needed */
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  .social-icons a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+    width: 50px; /* Adjust the size of the icons */
+    height: 50px; /* Adjust the size of the icons */
+    text-align: center;
+    line-height: 50px; /* Adjust vertically align if needed */
+    background-color: white; /* Change the background color */
+    border-radius: 5px; /* Rounded corners */
+    margin-right: 5px; /* Adjust spacing between icons */
+  }
+
+  .social-icons img {
+    width: 200%; /* Adjust the size of the icon inside the button */
+    vertical-align: middle; /* Center the icon vertically */
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Tanay Anand Mishra</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat" alt="tanay2920003" /> </p>
-<p align="right"> <img src="/code.gif" alt="" /> </p>
-
-
-
-
-
-- 🔭 I’m currently working on **Android APPS**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://tanay2920003.github.io/Portfolio22/](https://tanay2920003.github.io/Portfolio22/)
-
-- 📫 How to reach me **tanayanandmishra@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanayanandmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanayanandmishra" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/echoonetango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/echoonetango" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/basic_peacocks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/basic_peacocks" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tanayanandmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanayanandmishra/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat" alt="tanay2920003" />
 </p>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>Android Apps</strong></li>
+      <li>🌱 I’m currently learning <strong>Flutter</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://tanay2920003.github.io/Portfolio22/">Portfolio</a></li>
+      <li>📫 How to reach me: <strong>tanayanandmishra@gmail.com</strong></li>
+    </ul>
+<p>
+    <h3 align="left">Connect with me:</h3>
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/in/tanayanandmishra" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="LinkedIn" /></a>
+      <a href="https://www.instagram.com/echoonetango" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
+      <a href="https://www.codechef.com/users/basic_peacocks" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="Codechef" /></a>
+      <a href="https://leetcode.com/u/tanayanandmishra/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" /></a>
+    </div>
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  <div style="flex: 1; text-align: right;">
+    <img src="code.gif" alt="Code GIF" width="300" height="250" style="border-radius: 10px;">
+  </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay2920003&show_icons=true&locale=en&layout=compact" alt="tanay2920003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&locale=en" alt="tanay2920003" /></p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,dart,flutter,bash,js,linux,python,react,arduino,unreal%20engine%205&perline=3)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanay2920003&" alt="tanay2920003" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay2920003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Tanay2920003&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Tanay2920003&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanay2920003&show_icons=true" />
+</picture>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tanay2920003&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496&card_height=193)](https://git.io/streak-stats)

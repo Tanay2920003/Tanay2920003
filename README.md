@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat" alt="tanay2920003" /> </p>
 
-<p align="left"> <a href="code.gif" alt="tanay2920003" /></a> </p>
+![alt text](code.gif)
 
 <p align="right"> <img src="[https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Tanay2920003/Tanay2920003/assets/127974995/b9753126-7464-482c-ae98-5f99e6814dcb)" alt="tanay2920003" /> </p>
 

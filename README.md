@@ -16,6 +16,9 @@
       <li>📫 How to reach me: <strong>tanayanandmishra@gmail.com</strong></li>
     </ul>
 <p>
+  <div style="flex: 1; text-align: right;">
+    <img src="code.gif" alt="Code GIF" width="300" height="250" style="border-radius: 10px;">
+  </div>
     <h3 align="left">Connect with me:</h3>
     <div class="social-icons">
       <a href="https://www.linkedin.com/in/tanayanandmishra" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="LinkedIn" /></a>
@@ -25,9 +28,7 @@
     </div>
   </div>
 
-  <div style="flex: 1; text-align: right;">
-    <img src="code.gif" alt="Code GIF" width="300" height="250" style="border-radius: 10px;">
-  </div>
+  
 </div>
 
 

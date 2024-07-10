@@ -51,7 +51,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanay2920003&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496&card_height=193)](https://git.io/streak-stats)
 
 
-<style>
-  /* Include your external CSS file */
-  @import('style.css');
-</style>

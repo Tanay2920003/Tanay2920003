@@ -1,69 +1,31 @@
-## Hi there 👋, my name is Bobby Galli
+<h1 align="center">Hi 👋, I'm Tanay Anand Mishra</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603)
-[![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bobbyg603)
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UxNXrBukjZ)
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bobbyg603)
-[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile%20views&color=0e75b6&style=flat" alt="tanay2920003" /> </p>
 
-## 🙋‍♂️ About me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanay2920003" alt="tanay2920003" /></a> </p>
 
-![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
+- 🔭 I’m currently working on **Android APPS**
 
-I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
+- 🌱 I’m currently learning **Flutter**
 
-## 🔭 I'm currently working on
+- 👨‍💻 All of my projects are available at [https://tanay2920003.github.io/Portfolio22/](https://tanay2920003.github.io/Portfolio22/)
 
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
+- 📫 How to reach me **tanayanandmishra@gmail.com**
 
-## 🌱 I’m currently learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanayanandmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanayanandmishra" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/echoonetango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/echoonetango" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/basic_peacocks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/basic_peacocks" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/tanayanandmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanayanandmishra/" height="30" width="40" /></a>
+</p>
 
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## 🔨 I've contributed to
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay2920003&show_icons=true&locale=en&layout=compact" alt="tanay2920003" /></p>
 
-[<img src="assets/bugsplat.png" height="50px">](https://github.com/BugSplat-Git)
-[<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
-[<img src="assets/supabase.png" height="50px">](https://github.com/supabase/supabase/pulls?q=author%3Abobbyg603+)
-[<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Abobbyg603)
-[<img src="assets/ionic.png" height="50px">](https://github.com/ionic-team/ionic-docs/pulls?q=author%3Abobbyg603+)
-[<img src="assets/ethereum.png" height="50px">](https://github.com/ethereum/ethereum-org-website/pulls?q=author%3Abobbyg603+)
-[<img src="assets/ng-mocks.png" height="50px">](https://github.com/help-me-mom/ng-mocks/pulls?q=author%3Abobbyg603+)
-[<img src="assets/swimlane.png" height="50px">](https://github.com/swimlane/ngx-charts/pulls?q=author%3Abobbyg603+)
-[<img src="assets/hotjar.png" height="50px">](https://github.com/hotjar/hotjar-js/pulls?q=author%3Abobbyg603+)
-[<img src="assets/sindre.png" height="50px">](https://github.com/sindresorhus/is-video/pulls?q=author%3Abobbyg603+)
-[<img src="assets/hanzla.png" height="50px">](https://github.com/1hanzla100/developer-portfolio/pulls?q=author%3Abobbyg603)
-[<img src="assets/georgipeltekov.png" height="50px">](https://github.com/georgipeltekov/ngx-file-drop/pulls?q=author%3Abobbyg603)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&locale=en" alt="tanay2920003" /></p>
 
-## ✍️ I've written about
-
-[<img src="assets/super-forms.png" height="100px">](https://medium.com/itnext/angular-super-forms-password-confirmation-bd95906f220f)
-[<img src="assets/form-control.png" height="100px">](https://medium.com/javascript-in-plain-english/how-to-build-a-custom-angular-formcontrol-12c92620790)
-[<img src="assets/testing-tips.png" height="100px">](https://medium.com/itnext/angular-testing-tips-ng-mocks-7d9300443a9c)
-[<img src="assets/ci-cd.jpg" height="100px">](https://medium.com/better-programming/ci-cd-for-angular-developers-be9a1485d22b)
-[<img src="assets/lit-elements.jpg" height="100px">](https://medium.com/better-programming/how-to-build-a-web-component-with-lit-elements-d88684a46e56)
-[<img src="assets/net-tools.jpg" height="100px">](https://medium.com/gitconnected/crash-course-in-net-tools-b2d84fd5074e)
-[<img src="assets/nft.png" height="100px">](https://medium.com/gitconnected/nft-development-speedrun-8c64cdf77f6b)
-[<img src="assets/file-uploads.png" height="100px">](https://medium.com/better-programming/file-uploads-with-angular-and-rxjs-34262b3450ae)
-[<img src="assets/rxjs-in-the-wild.jpg" height="100px">](https://medium.com/javascript-in-plain-english/rxjs-in-the-wild-how-to-create-pop-up-alerts-69134162c8b2)
-[<img src="assets/wdh.jpg" height="100px">](https://medium.com/workingdevshero/working-devs-hero-ad8697fe0ad8)
-[<img src="assets/sidecar.jpg" height="100px">](https://medium.com/workingdevshero/productivity-power-ups-sidecar-c8c9237f4188)
-[<img src="assets/qr-codes.png" height="100px">](https://medium.com/workingdevshero/adventures-in-ai-qr-codes-198d4f9b49b0)
-[<img src="assets/ketone-iq.png" height="100px">](https://medium.com/workingdevshero/productivity-power-ups-ketone-iq-ec89b76ebb33)
-[<img src="assets/wdh-sync-async.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-sync-async-9ebbfcc393dc)
-[<img src="assets/wdh-imports.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-imports-fe288b1e6005)
-[<img src="assets/wdh-ts-types.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-typescript-types-3f04d7b899b4)
-[<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
-
-## 💸 How to support me
-
-[<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">](https://www.blockchain.com/btc/address/bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg)
-
-## 📫 How to reach me
-
-[<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
-[<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
-[<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanay2920003&" alt="tanay2920003" /></p>

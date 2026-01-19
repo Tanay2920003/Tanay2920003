@@ -21,7 +21,11 @@
 <a href="https://leetcode.com/u/tanayanandmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/tanayanandmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 </p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8ZC5KP)
+<p align="left">
+  <a href="https://ko-fi.com/L4L8ZC5KP" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36" />
+  </a>
+</p>
 
 <h3 align="left"> Languages and Tools:  </h3>
 <p align="left">

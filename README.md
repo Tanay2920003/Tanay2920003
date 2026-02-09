@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **DSA**
-- 💻 I’m a CSE student
+- 💻 I’m a CS student
 - 📫 How to reach me **tanayanandmishra@gmail.com**
 
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>

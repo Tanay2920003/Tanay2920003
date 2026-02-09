@@ -23,7 +23,7 @@
 </p>
 <p align="left">
   <a href="https://ko-fi.com/L4L8ZC5KP" target="_blank" rel="noopener noreferrer">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36" />
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a Ko-fi" height="36" />
   </a>
 </p>
 

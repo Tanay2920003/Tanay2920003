@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer+%F0%9F%A7%A0;Flutter+Learner+%F0%9F%93%B1;DSA+Enthusiast+%F0%9F%94%A5;Always+learning%2C+always+building+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%93%B1;Next.js+%2F+React+Dev+%E2%9A%A1;DSA+Enthusiast+%F0%9F%94%A5;Always+learning%2C+always+building+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile+Views&color=58a6ff&style=flat-square" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/tanay2920003?label=Followers&style=flat-square&color=58a6ff)](https://github.com/tanay2920003)
+<a href="https://github.com/tanay2920003"><img src="https://img.shields.io/github/followers/tanay2920003?label=Followers&style=flat-square&color=58a6ff" /></a>
 
 </div>
 
@@ -20,9 +20,9 @@
 
 ```ts
 const tanay = {
-  title     : "CS Student & Problem Solver",
-  currently : "Learning Flutter 📱",
-  strengths : ["DSA", "C++", "Competitive Programming"],
+  title     : "CS Student & Developer",
+  currently : ["Flutter 📱", "Next.js / React ⚡"],
+  strengths : ["DSA", "C++", "Building full-stack apps"],
   building  : "Cool stuff, one commit at a time 🚀",
   askMeAbout: "Data Structures & Algorithms",
   funFact   : "I debug with coffee ☕",
@@ -43,7 +43,7 @@ const tanay = {
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nextjs,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -75,7 +75,7 @@ const tanay = {
 
 ---
 
-### ⚔️ Competitive Programming
+### 🧩 Problem Solving
 
 <div align="center">
 

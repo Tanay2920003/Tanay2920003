@@ -53,13 +53,18 @@ const tanay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&rank_icon=github&card_width=400" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&card_width=280" height="170"/>
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanay2920003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=tanay2920003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 

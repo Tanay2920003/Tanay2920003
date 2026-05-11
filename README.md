@@ -1,89 +1,114 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=200&section=header&text=Tanayanand%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20DSA%20%7C%20Flutter%20Dev&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=9999999&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Tanay+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer+%F0%9F%A7%A0;Flutter+Learner+%F0%9F%93%B1;DSA+Enthusiast+%F0%9F%94%A5;Always+learning%2C+always+building+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile+Views&color=58a6ff&style=flat-square" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/tanay2920003?label=Followers&style=flat-square&color=58a6ff)](https://github.com/tanay2920003)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+### 👨‍💻 About Me
 
 ```ts
 const tanay = {
-  role      : "Computer Science Student",
-  learning  : ["Flutter", "DSA", "System Design"],
-  interests : ["Competitive Programming", "Mobile Dev", "IoT"],
-  askMeAbout: ["Data Structures", "Algorithms", "C++", "Python"],
-  contact   : "tanayanandmishra@gmail.com",
+  title     : "CS Student & Problem Solver",
+  currently : "Learning Flutter 📱",
+  strengths : ["DSA", "C++", "Competitive Programming"],
+  building  : "Cool stuff, one commit at a time 🚀",
+  askMeAbout: "Data Structures & Algorithms",
+  funFact   : "I debug with coffee ☕",
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,dart,js,c&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanay2920003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=flutter,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🏆 Competitive Programming
+### 📊 GitHub At a Glance
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tanayanandmishra/)
+<img src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&rank_icon=github&card_width=400" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&card_width=280" height="170"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanay2920003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+### 🏆 Trophies
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@TanGO__dev0ps-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TanGO_dev0ps)
-[![LinkedIn](https://img.shields.io/badge/Tanayanand%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanay2920003&theme=algolia&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
+### ⚔️ Competitive Programming
+
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tanayanandmishra/)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay2920003&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🤝 Find Me Online
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40TanGO__dev0ps-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TanGO_dev0ps)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
+
+<br/>
+
+*If my work helped you, a coffee goes a long way!*
 
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8ZC5KP)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%"/>

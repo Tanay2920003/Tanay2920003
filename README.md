@@ -1,100 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=200&section=header&text=Tanay%20Anand%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20DSA%20%7C%20Flutter%20Dev&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+# Tanay Anand Mishra
+
+Software Engineer focused on systems architecture, scalability, and cross-platform infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TanGO_dev0ps)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
+
+---
+
+## Overview
+
+I build and scale robust software systems. My expertise spans architecting performant client applications, designing resilient data pipelines, and building reliable backend infrastructure. I care deeply about code quality, system reliability, and establishing maintainable architectural patterns.
+
+Currently, I'm focusing on **distributed systems**, **cloud-native environments**, and **high-performance mobile architectures**.
+
+## Engineering Philosophy
+
+- **Simplicity over complexity:** Build the simplest system that meets the requirements and scales organically.
+- **Data-driven decisions:** Leverage metrics, logging, and observability to guide architectural pivots.
+- **Robustness:** Design for failure, ensuring systems degrade gracefully under load.
+
+## Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, TypeScript, Dart, Python, C |
+| **Client Engineering** | Flutter, Next.js, React |
+| **Infrastructure & Tools** | Linux, Docker, Git |
+| **Concepts** | System Design, Clean Architecture, Algorithmic Optimization, Microservices |
+
+## Code & Activity
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%93%B1;Next.js+%2F+React+Dev+%E2%9A%A1;DSA+Enthusiast+%F0%9F%94%A5;Always+learning%2C+always+building+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" height="160" alt="Top Languages" />
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanay2920003&label=Profile+Views&color=58a6ff&style=flat-square" />
-&nbsp;
-<a href="https://github.com/tanay2920003"><img src="https://img.shields.io/github/followers/tanay2920003?label=Followers&style=flat-square&color=58a6ff" /></a>
-
-</div>
-
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-### 👨‍💻 About Me
-
-```ts
-const tanay = {
-  title     : "CS Student & Developer",
-  currently : ["Flutter 📱", "Next.js / React ⚡"],
-  strengths : ["DSA", "C++", "Building full-stack apps"],
-  building  : "Cool stuff, one commit at a time 🚀",
-  askMeAbout: "Data Structures & Algorithms",
-  funFact   : "I debug with coffee ☕",
-};
-```
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,dart,js,c&theme=dark)](https://skillicons.dev)
-
-**Frameworks & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,nextjs,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-
+  <a href="https://github.com/tanay2920003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanay2920003&theme=transparent&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=transparent" width="100%" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanay2920003&theme=algolia&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🧩 Problem Solving
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tanayanandmishra/)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay2920003&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🤝 Find Me Online
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%40TanGO__dev0ps-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TanGO_dev0ps)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
-
-<br/>
-
-*If my work helped you, a coffee goes a long way!*
-
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8ZC5KP)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%"/>
+*"Simplicity is the ultimate sophistication."*

@@ -1,49 +1,112 @@
 # Tanay Anand Mishra
 
-Software Engineer focused on systems architecture, scalability, and cross-platform infrastructure.
+**Building Android apps, IoT systems, and AI-assisted software.**
+
+Full-Stack Developer • Android • Flutter • IoT • India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TanGO_dev0ps)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tanayanandmishra.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
 
 ---
 
-## Overview
+## Hey, I'm Tanay 👋
 
-I build and scale robust software systems. My expertise spans architecting performant client applications, designing resilient data pipelines, and building reliable backend infrastructure. I care deeply about code quality, system reliability, and establishing maintainable architectural patterns.
+I build mobile apps, web platforms, and hardware-connected systems using Flutter, Android, Next.js, IoT, and automation technologies.
 
-Currently, I'm focusing on **distributed systems**, **cloud-native environments**, and **high-performance mobile architectures**.
+Currently exploring:
 
-## Engineering Philosophy
-
-- **Simplicity over complexity:** Build the simplest system that meets the requirements and scales organically.
-- **Data-driven decisions:** Leverage metrics, logging, and observability to guide architectural pivots.
-- **Robustness:** Design for failure, ensuring systems degrade gracefully under load.
-
-## Technical Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, TypeScript, Dart, Python, C |
-| **Client Engineering** | Flutter, Next.js, React |
-| **Infrastructure & Tools** | Linux, Docker, Git |
-| **Concepts** | System Design, Clean Architecture, Algorithmic Optimization, Microservices |
-
-## Code & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanay2920003&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2920003&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/tanay2920003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanay2920003&theme=transparent&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=transparent" width="100%" alt="Contribution Graph" />
-  </a>
-</div>
+- Android systems & background services
+- Robotics and autonomous systems
+- AI-assisted development workflows
+- Embedded systems & automation
 
 ---
-*"Simplicity is the ultimate sophistication."*
+
+## Featured Projects
+
+### WristGuard — Watch ↔ Phone Security *(In Development)*
+
+Developing an Android-smartwatch security platform focused on device protection and remote controls.
+
+- Flutter + Kotlin
+- Background services
+- Smartwatch integration
+- Device security workflows
+
+---
+
+### Robotics & Drone Exploration
+
+Currently learning and experimenting with IoT, robotics, and autonomous system design.
+
+Areas of interest:
+
+- Drone systems
+- Embedded automation
+- Sensors & control logic
+- Robotics workflows
+
+---
+
+### Published Student Applications
+
+Applications built for university students:
+
+#### 📚 BBD Papers
+Academic resources, PYQs and student materials.
+
+#### 📅 Attendance & Timetable
+Routine management and schedule tracking.
+
+#### 🍽️ BBD Mess Menu
+Daily mess menu and timetable utility.
+
+#### 🗓️ DOTY — Day Of The Year
+Date and engineering utility application.
+
+---
+
+## Tech Stack
+
+### Languages
+Kotlin • Dart • Python • C++ • TypeScript
+
+### Mobile
+Flutter • Android • Firebase
+
+### Web
+React • Next.js • APIs
+
+### IoT & Embedded
+Arduino • Sensors • Automation • Embedded Systems
+
+### Tools
+Linux • Docker • Git
+
+---
+
+## Currently Building
+
+- Android security & smartwatch integrations
+- Robotics and IoT experiments
+- AI-assisted workflows
+- Production Flutter applications
+
+---
+
+## Contact
+
+📧 **Email**  
+tanayanandmishra@gmail.com
+
+🌐 **Portfolio**  
+https://tanayanandmishra.vercel.app
+
+💼 **LinkedIn**  
+https://linkedin.com/in/tanayanandmishra
+
+---
+
+> Building useful software by learning, shipping, and improving.

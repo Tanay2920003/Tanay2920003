@@ -50,53 +50,6 @@ Areas of interest:
 
 ---
 
-### Published Student Applications
-
-Applications built for university students:
-
-#### 📚 BBD Papers
-Academic resources, PYQs and student materials.
-
-#### 📅 Attendance & Timetable
-Routine management and schedule tracking.
-
-#### 🍽️ BBD Mess Menu
-Daily mess menu and timetable utility.
-
-#### 🗓️ DOTY — Day Of The Year
-Date and engineering utility application.
-
----
-
-## Tech Stack
-
-### Languages
-Kotlin • Dart • Python • C++ • TypeScript
-
-### Mobile
-Flutter • Android • Firebase
-
-### Web
-React • Next.js • APIs
-
-### IoT & Embedded
-Arduino • Sensors • Automation • Embedded Systems
-
-### Tools
-Linux • Docker • Git
-
----
-
-## Currently Building
-
-- Android security & smartwatch integrations
-- Robotics and IoT experiments
-- AI-assisted workflows
-- Production Flutter applications
-
----
-
-## Contact
 
 📧 **Email**  
 tanayanandmishra@gmail.com

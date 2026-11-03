@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="376" viewBox="0 0 1200 376" role="img" aria-labelledby="title desc">
+  <title id="title">Stack</title>
+  <desc id="desc">Mobile: kotlin, flutter, dart, android sdk. Web: next.js, react. Hardware: iot, c / c++, embedded, sensors. Tooling: python, linux, git, gcp.</desc>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .chip{opacity:0;animation:pop .6s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes pop{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+    .scan{animation:scan 6s cubic-bezier(.6,0,.4,1) infinite}
+    @keyframes scan{0%{transform:translateY(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateY(304px);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.chip{opacity:1}.scan{display:none}}
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="376" rx="20"/></clipPath>
+    <linearGradient id="scanline" x1="0" x2="1">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#5EEAD4" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="376" fill="#0A0C10"/>
+    <rect class="scan" x="0" y="36" width="1200" height="1" fill="url(#scanline)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="375" rx="19.5" fill="none" stroke="#1F2630"/>
+  <text x="56" y="80" class="mono" font-size="16" letter-spacing="3" fill="#7D8590">MOBILE</text>
+  <g class="chip" style="animation-delay:0.1s"><rect x="270.5" y="52.5" width="116" height="44" rx="11" fill="#0F141A" stroke="#5EEAD4" stroke-opacity=".45"/><text x="288" y="81" class="mono" font-size="22" fill="#C9D1D9">kotlin</text></g>
+  <g class="chip" style="animation-delay:0.17s"><rect x="398.5" y="52.5" width="129" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="416" y="81" class="mono" font-size="22" fill="#C9D1D9">flutter</text></g>
+  <g class="chip" style="animation-delay:0.24s"><rect x="539.5" y="52.5" width="89" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="557" y="81" class="mono" font-size="22" fill="#C9D1D9">dart</text></g>
+  <g class="chip" style="animation-delay:0.31s"><rect x="640.5" y="52.5" width="182" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="658" y="81" class="mono" font-size="22" fill="#C9D1D9">android sdk</text></g>
+  <path d="M56 112.5 H1144" stroke="#161C24"/>
+  <text x="56" y="156" class="mono" font-size="16" letter-spacing="3" fill="#7D8590">WEB</text>
+  <g class="chip" style="animation-delay:0.22s"><rect x="270.5" y="128.5" width="129" height="44" rx="11" fill="#0F141A" stroke="#5EEAD4" stroke-opacity=".45"/><text x="288" y="157" class="mono" font-size="22" fill="#C9D1D9">next.js</text></g>
+  <g class="chip" style="animation-delay:0.29s"><rect x="411.5" y="128.5" width="102" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="429" y="157" class="mono" font-size="22" fill="#C9D1D9">react</text></g>
+  <path d="M56 188.5 H1144" stroke="#161C24"/>
+  <text x="56" y="232" class="mono" font-size="16" letter-spacing="3" fill="#7D8590">HARDWARE</text>
+  <g class="chip" style="animation-delay:0.34s"><rect x="270.5" y="204.5" width="76" height="44" rx="11" fill="#0F141A" stroke="#5EEAD4" stroke-opacity=".45"/><text x="288" y="233" class="mono" font-size="22" fill="#C9D1D9">iot</text></g>
+  <g class="chip" style="animation-delay:0.41s"><rect x="358.5" y="204.5" width="129" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="376" y="233" class="mono" font-size="22" fill="#C9D1D9">c / c++</text></g>
+  <g class="chip" style="animation-delay:0.48s"><rect x="499.5" y="204.5" width="142" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="517" y="233" class="mono" font-size="22" fill="#C9D1D9">embedded</text></g>
+  <g class="chip" style="animation-delay:0.55s"><rect x="653.5" y="204.5" width="129" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="671" y="233" class="mono" font-size="22" fill="#C9D1D9">sensors</text></g>
+  <path d="M56 264.5 H1144" stroke="#161C24"/>
+  <text x="56" y="308" class="mono" font-size="16" letter-spacing="3" fill="#7D8590">TOOLING</text>
+  <g class="chip" style="animation-delay:0.46s"><rect x="270.5" y="280.5" width="116" height="44" rx="11" fill="#0F141A" stroke="#5EEAD4" stroke-opacity=".45"/><text x="288" y="309" class="mono" font-size="22" fill="#C9D1D9">python</text></g>
+  <g class="chip" style="animation-delay:0.53s"><rect x="398.5" y="280.5" width="102" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="416" y="309" class="mono" font-size="22" fill="#C9D1D9">linux</text></g>
+  <g class="chip" style="animation-delay:0.6s"><rect x="512.5" y="280.5" width="76" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="530" y="309" class="mono" font-size="22" fill="#C9D1D9">git</text></g>
+  <g class="chip" style="animation-delay:0.67s"><rect x="600.5" y="280.5" width="76" height="44" rx="11" fill="#0F141A" stroke="#26303C"/><text x="618" y="309" class="mono" font-size="22" fill="#C9D1D9">gcp</text></g>
+</svg>

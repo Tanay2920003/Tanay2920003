@@ -1,65 +1,37 @@
-# Tanay Anand Mishra
+<a href="https://tanayanandmishra.vercel.app">
+  <img src="assets/hero.svg" width="100%" alt="Tanay Anand Mishra. Software that talks to hardware: Android, Flutter, Kotlin, IoT, Next.js." />
+</a>
 
-**Building Android apps, IoT systems, and AI-assisted software.**
+<p>
+  <a href="https://tanayanandmishra.vercel.app"><img src="https://img.shields.io/badge/portfolio-0A0C10?style=for-the-badge&labelColor=0A0C10" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tanayanandmishra"><img src="https://img.shields.io/badge/linkedin-0A0C10?style=for-the-badge&labelColor=0A0C10" alt="LinkedIn" /></a>
+  <a href="mailto:tanayanandmishra@gmail.com"><img src="https://img.shields.io/badge/email-0A0C10?style=for-the-badge&labelColor=0A0C10" alt="Email" /></a>
+  <a href="https://leetcode.com/u/tanayanandmishra/"><img src="https://img.shields.io/badge/leetcode-0A0C10?style=for-the-badge&labelColor=0A0C10" alt="LeetCode" /></a>
+</p>
 
-Full-Stack Developer • Android • Flutter • IoT • India
+I build Android apps, web platforms, and robotics and IoT systems, usually on projects where the software has to talk to a real device. Kotlin and Flutter on the phone, Next.js on the web, C/C++ and sensors on the hardware.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanayanandmishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tanayanandmishra.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanayanandmishra@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanayanandmishra/)
+### Building
 
----
+<img src="assets/wristguard.svg" width="100%" alt="WristGuard, in development. Smartwatch to phone security for Android: remote device controls from the wrist, backed by background services. Flutter, Kotlin." />
 
-## Hey, I'm Tanay 👋
+<img src="assets/robotics.svg" width="100%" alt="Robotics and drones, exploring. Drone systems, sensor input, control logic and embedded automation." />
 
-I build mobile apps, web platforms, and hardware-connected systems using Flutter, Android, Next.js, IoT, and automation technologies.
+### Digging into
 
-Currently exploring:
-
-- Android systems & background services
+- How Android schedules, limits and kills background work
 - Robotics and autonomous systems
-- AI-assisted development workflows
-- Embedded systems & automation
+- Using AI tools inside my own development workflow
+- Embedded systems and automation
 
----
+### Stack
 
-## Featured Projects
+<img src="assets/stack.svg" width="100%" alt="Mobile: Kotlin, Flutter, Dart, Android SDK. Web: Next.js, React. Hardware: IoT, C/C++, embedded, sensors. Tooling: Python, Linux, Git, GCP." />
 
-### WristGuard — Watch ↔ Phone Security *(In Development)*
+### Shipping
 
-Developing an Android-smartwatch security platform focused on device protection and remote controls.
+<img src="assets/contributions.svg" width="100%" alt="GitHub contribution graph for the last 12 months, regenerated daily." />
 
-- Flutter + Kotlin
-- Background services
-- Smartwatch integration
-- Device security workflows
+<img src="assets/footer.svg" width="100%" alt="" />
 
----
-
-### Robotics & Drone Exploration
-
-Currently learning and experimenting with IoT, robotics, and autonomous system design.
-
-Areas of interest:
-
-- Drone systems
-- Embedded automation
-- Sensors & control logic
-- Robotics workflows
-
----
-
-
-📧 **Email**  
-tanayanandmishra@gmail.com
-
-🌐 **Portfolio**  
-https://tanayanandmishra.vercel.app
-
-💼 **LinkedIn**  
-https://linkedin.com/in/tanayanandmishra
-
----
-
-> Building useful software by learning, shipping, and improving.
+<p align="center">Email is the fastest way to reach me: <a href="mailto:tanayanandmishra@gmail.com">tanayanandmishra@gmail.com</a></p>

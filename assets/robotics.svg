@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Robotics and drones</title>
+  <desc id="desc">Exploring. Autonomous systems, from sensors to control loops: drone systems, sensor input, control logic and embedded automation.</desc>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
+    .d1{animation-delay:.05s}.d2{animation-delay:.15s}.d3{animation-delay:.25s}.d4{animation-delay:.11s}.d5{animation-delay:.5s}
+    @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    .live{transform-box:fill-box;transform-origin:center;animation:live 2s ease-out infinite}
+    @keyframes live{from{transform:scale(1);opacity:.7}to{transform:scale(3.2);opacity:0}}
+    .sweep{transform-origin:950px 170px;animation:spin 4s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .prop{transform-box:fill-box;transform-origin:center;animation:spin .22s linear infinite}
+    .prop.ccw{animation-direction:reverse}
+    .hover{animation:hover 3.2s ease-in-out infinite}
+    @keyframes hover{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    .shadow{transform-box:fill-box;transform-origin:center;animation:shadow 3.2s ease-in-out infinite}
+    @keyframes shadow{0%,100%{transform:scale(1);opacity:.5}50%{transform:scale(.88);opacity:.3}}
+    .blip{opacity:0;animation:blip 4s linear infinite}
+    @keyframes blip{0%{opacity:0}2%{opacity:1}40%{opacity:0}100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.rise{opacity:1}.blip{opacity:.6}}
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#161C24"/></pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity=".32"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0A0C10"/>
+    <rect x="700" width="500" height="340" fill="url(#dots)"/>
+    <circle cx="950" cy="170" r="230" fill="url(#glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="19.5" fill="none" stroke="#1F2630"/>
+
+  <!-- copy -->
+  <g class="rise d1">
+    <rect x="56.5" y="48.5" width="128" height="29" rx="14.5" fill="#5EEAD4" fill-opacity=".08" stroke="#5EEAD4" stroke-opacity=".45"/>
+    <circle cx="76" cy="63" r="4" fill="#5EEAD4" class="live"/>
+    <circle cx="76" cy="63" r="4" fill="#5EEAD4"/>
+    <text x="90" y="68" class="mono" font-size="13" letter-spacing="1.5" fill="#5EEAD4">EXPLORING</text>
+  </g>
+  <text x="54" y="140" class="sans rise d2" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#E6EDF3">Robotics &amp; drones</text>
+  <text x="56" y="180" class="sans rise d3" font-size="23" fill="#7D8590">Autonomous systems, from sensors to control loops</text>
+  <g class="rise d4">
+    <text x="56" y="226" class="sans" font-size="21" fill="#C9D1D9">Working through drone systems, sensor input, control logic</text>
+    <text x="56" y="254" class="sans" font-size="21" fill="#C9D1D9">and embedded automation.</text>
+  </g>
+  <g class="rise d5 mono" font-size="17" fill="#C9D1D9">
+    <rect x="56.5" y="278.5" width="81" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="71" y="301">c/c++</text>
+    <rect x="147.5" y="278.5" width="102" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="162" y="301">sensors</text>
+    <rect x="259.5" y="278.5" width="163" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="274" y="301">control loops</text>
+    <rect x="432.5" y="278.5" width="61" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="447" y="301">iot</text>
+  </g>
+
+  <!-- radar -->
+  <circle cx="950" cy="170" r="140" fill="none" stroke="#1F2630"/>
+  <circle cx="950" cy="170" r="96" fill="none" stroke="#1A212B"/>
+  <circle cx="950" cy="170" r="52" fill="none" stroke="#1A212B"/>
+  <path d="M810 170 H1090 M950 30 V310" stroke="#161C24"/>
+  <g class="sweep">
+    <path d="M950 170 L950 30 A140 140 0 0 1 1049 71 Z" fill="url(#beam)"/>
+    <path d="M950 170 L1049 71" stroke="#5EEAD4" stroke-opacity=".7" stroke-width="1.5"/>
+  </g>
+  <!-- blips timed to the sweep passing them -->
+  <circle cx="1046" cy="102" r="4" fill="#5EEAD4" class="blip" style="animation-delay:.11s"/>
+  <circle cx="1030" cy="262" r="4" fill="#5EEAD4" class="blip" style="animation-delay:1.04s"/>
+  <circle cx="852" cy="236" r="4" fill="#F5B14C" class="blip" style="animation-delay:2.12s"/>
+  <circle cx="874" cy="74" r="3.5" fill="#5EEAD4" class="blip" style="animation-delay:3.07s"/>
+
+  <!-- drone -->
+  <ellipse cx="950" cy="232" rx="58" ry="7" fill="#000" class="shadow"/>
+  <g class="hover">
+    <path d="M950 170 L906 126 M950 170 L994 126 M950 170 L906 214 M950 170 L994 214" stroke="#2F3B48" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="906" cy="126" r="22" fill="#5EEAD4" fill-opacity=".05" stroke="#26303C"/>
+    <circle cx="994" cy="126" r="22" fill="#5EEAD4" fill-opacity=".05" stroke="#26303C"/>
+    <circle cx="906" cy="214" r="22" fill="#5EEAD4" fill-opacity=".05" stroke="#26303C"/>
+    <circle cx="994" cy="214" r="22" fill="#5EEAD4" fill-opacity=".05" stroke="#26303C"/>
+    <g class="prop"><path d="M886 126 H926" stroke="#C9D1D9" stroke-width="3" stroke-linecap="round"/></g>
+    <g class="prop ccw"><path d="M974 126 H1014" stroke="#C9D1D9" stroke-width="3" stroke-linecap="round"/></g>
+    <g class="prop ccw"><path d="M886 214 H926" stroke="#C9D1D9" stroke-width="3" stroke-linecap="round"/></g>
+    <g class="prop"><path d="M974 214 H1014" stroke="#C9D1D9" stroke-width="3" stroke-linecap="round"/></g>
+    <circle cx="906" cy="126" r="5" fill="#E6EDF3"/>
+    <circle cx="994" cy="126" r="5" fill="#E6EDF3"/>
+    <circle cx="906" cy="214" r="5" fill="#E6EDF3"/>
+    <circle cx="994" cy="214" r="5" fill="#E6EDF3"/>
+    <rect x="928" y="150" width="44" height="40" rx="11" fill="#0F141A" stroke="#E6EDF3" stroke-width="2"/>
+    <circle cx="950" cy="160" r="3" fill="#5EEAD4" class="live"/>
+    <circle cx="950" cy="160" r="3" fill="#5EEAD4"/>
+  </g>
+</svg>

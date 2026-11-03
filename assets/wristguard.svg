@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">WristGuard</title>
+  <desc id="desc">In development. Smartwatch and phone security for Android: remote device controls from the wrist, backed by background services. Flutter, Kotlin.</desc>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
+    .d1{animation-delay:.05s}.d2{animation-delay:.15s}.d3{animation-delay:.25s}.d4{animation-delay:.35s}.d5{animation-delay:.5s}
+    @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    .live{transform-box:fill-box;transform-origin:center;animation:live 2s ease-out infinite}
+    @keyframes live{from{transform:scale(1);opacity:.7}to{transform:scale(3.2);opacity:0}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.6s cubic-bezier(.2,.6,.3,1) infinite}
+    .ring.late{animation-delay:1.3s}
+    @keyframes ring{from{transform:scale(1);opacity:.45}to{transform:scale(1.9);opacity:0}}
+    .flow{animation:flow 1.2s linear infinite}
+    .flow.back{animation-direction:reverse}
+    @keyframes flow{to{stroke-dashoffset:-20}}
+    .check{stroke-dasharray:40;stroke-dashoffset:40;animation:check 4s ease infinite}
+    @keyframes check{0%,15%{stroke-dashoffset:40}35%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:40}}
+    .arc{stroke-dasharray:214;stroke-dashoffset:214;transform-origin:1060px 175px;transform:rotate(-90deg);animation:arc 4s ease infinite}
+    @keyframes arc{0%{stroke-dashoffset:214}60%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-214}}
+    .row{animation:row 4s ease infinite}
+    .row.r2{animation-delay:.3s}
+    @keyframes row{0%,30%{opacity:.35}45%,80%{opacity:1}100%{opacity:.35}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.rise{opacity:1}.check,.arc{stroke-dashoffset:0}}
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#161C24"/></pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F5B14C" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#F5B14C" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0A0C10"/>
+    <rect x="700" width="500" height="340" fill="url(#dots)"/>
+    <circle cx="935" cy="175" r="230" fill="url(#glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="19.5" fill="none" stroke="#1F2630"/>
+
+  <!-- copy -->
+  <g class="rise d1">
+    <rect x="56.5" y="48.5" width="172" height="29" rx="14.5" fill="#F5B14C" fill-opacity=".08" stroke="#F5B14C" stroke-opacity=".45"/>
+    <circle cx="76" cy="63" r="4" fill="#F5B14C" class="live"/>
+    <circle cx="76" cy="63" r="4" fill="#F5B14C"/>
+    <text x="90" y="68" class="mono" font-size="13" letter-spacing="1.5" fill="#F5B14C">IN DEVELOPMENT</text>
+  </g>
+  <text x="54" y="140" class="sans rise d2" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#E6EDF3">WristGuard</text>
+  <text x="56" y="180" class="sans rise d3" font-size="23" fill="#7D8590">Smartwatch ↔ phone security for Android</text>
+  <g class="rise d4">
+    <text x="56" y="226" class="sans" font-size="21" fill="#C9D1D9">Protect the phone from your wrist: remote device controls,</text>
+    <text x="56" y="254" class="sans" font-size="21" fill="#C9D1D9">backed by background services that keep running.</text>
+  </g>
+  <g class="rise d5 mono" font-size="17" fill="#C9D1D9">
+    <rect x="56.5" y="278.5" width="102" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="71" y="301">flutter</text>
+    <rect x="168.5" y="278.5" width="91" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="183" y="301">kotlin</text>
+    <rect x="269.5" y="278.5" width="225" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="284" y="301">background services</text>
+    <rect x="504.5" y="278.5" width="173" height="33" rx="9" fill="#0F141A" stroke="#26303C"/>
+    <text x="519" y="301">wear companion</text>
+  </g>
+
+  <!-- link between devices -->
+  <path d="M892 160 C930 118 972 118 1008 160" fill="none" stroke="#26303C" stroke-width="1.5"/>
+  <path d="M892 190 C930 232 972 232 1008 190" fill="none" stroke="#26303C" stroke-width="1.5"/>
+  <path d="M892 160 C930 118 972 118 1008 160" fill="none" stroke="#5EEAD4" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="3 17" class="flow"/>
+  <path d="M892 190 C930 232 972 232 1008 190" fill="none" stroke="#F5B14C" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="3 17" class="flow back"/>
+  <circle r="4" fill="#5EEAD4"><animateMotion dur="2.2s" repeatCount="indefinite" path="M892 160 C930 118 972 118 1008 160"/></circle>
+  <circle r="4" fill="#F5B14C"><animateMotion dur="2.2s" begin="-1.1s" repeatCount="indefinite" path="M1008 190 C972 232 930 232 892 190"/></circle>
+
+  <!-- phone -->
+  <rect x="760" y="58" width="132" height="234" rx="24" fill="#0F141A" stroke="#2F3B48" stroke-width="2"/>
+  <rect x="771" y="70" width="110" height="210" rx="15" fill="#0B1015"/>
+  <rect x="811" y="77" width="30" height="7" rx="3.5" fill="#1F2630"/>
+  <circle cx="826" cy="150" r="30" fill="none" stroke="#5EEAD4" class="ring"/>
+  <circle cx="826" cy="150" r="30" fill="none" stroke="#5EEAD4" class="ring late"/>
+  <path d="M826 124 L849 133 V151 C849 167 839 176 826 181 C813 176 803 167 803 151 V133 Z" fill="#5EEAD4" fill-opacity=".1" stroke="#5EEAD4" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M815 152 L823 160 L838 144" fill="none" stroke="#5EEAD4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="check"/>
+  <rect x="786" y="208" width="80" height="9" rx="4.5" fill="#26303C" class="row"/>
+  <rect x="786" y="226" width="56" height="9" rx="4.5" fill="#26303C" class="row r2"/>
+  <rect x="786" y="252" width="80" height="14" rx="7" fill="#5EEAD4" fill-opacity=".18"/>
+
+  <!-- watch -->
+  <rect x="1032" y="72" width="56" height="44" rx="10" fill="#0F141A" stroke="#26303C" stroke-width="2"/>
+  <rect x="1032" y="234" width="56" height="44" rx="10" fill="#0F141A" stroke="#26303C" stroke-width="2"/>
+  <rect x="1008" y="112" width="104" height="126" rx="34" fill="#0F141A" stroke="#2F3B48" stroke-width="2"/>
+  <rect x="1112" y="160" width="6" height="22" rx="3" fill="#2F3B48"/>
+  <circle cx="1060" cy="175" r="34" fill="none" stroke="#1F2630" stroke-width="5"/>
+  <circle cx="1060" cy="175" r="34" fill="none" stroke="#F5B14C" stroke-width="5" stroke-linecap="round" class="arc"/>
+  <rect x="1050" y="173" width="20" height="16" rx="3" fill="#E6EDF3"/>
+  <path d="M1054 173 V167 A6 6 0 0 1 1066 167 V173" fill="none" stroke="#E6EDF3" stroke-width="2.5"/>
+</svg>

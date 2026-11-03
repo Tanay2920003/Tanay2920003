@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Signal line">
+  <style>
+    .wave{animation:wave 3s linear infinite}
+    .wave.slow{animation-duration:5s;animation-direction:reverse}
+    @keyframes wave{to{transform:translateX(-160px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#fff"/>
+      <stop offset=".8" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade"><rect width="1200" height="90" fill="url(#edge)"/></mask>
+    <path id="sine" d="M0 45 Q40 5 80 45 T160 45 T240 45 T320 45 T400 45 T480 45 T560 45 T640 45 T720 45 T800 45 T880 45 T960 45 T1040 45 T1120 45 T1200 45 T1280 45 T1360 45 T1440 45 T1520 45"/>
+  </defs>
+  <g mask="url(#fade)" fill="none" stroke-width="2" stroke-linecap="round">
+    <g transform="translate(-40 18) scale(1 .6)"><use href="#sine" class="wave slow" stroke="#26303C"/></g>
+    <use href="#sine" class="wave" stroke="#5EEAD4" stroke-opacity=".75"/>
+  </g>
+</svg>
